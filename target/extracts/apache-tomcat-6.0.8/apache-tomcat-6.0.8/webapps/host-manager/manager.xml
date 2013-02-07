@@ -1,0 +1,13 @@
+<!--
+
+    Context configuration file for the Tomcat Manager Web App
+
+    $Id: manager.xml 467216 2006-10-24 03:14:00Z markt $
+
+-->
+
+
+<Context docBase="${catalina.home}/server/webapps/manager"
+         privileged="true" antiResourceLocking="false" antiJARLocking="false">
+
+</Context>

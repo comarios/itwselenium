@@ -1,0 +1,13 @@
+<!--
+
+    Context configuration file for the Tomcat Host Manager Web App
+
+    $Id: host-manager.xml 467216 2006-10-24 03:14:00Z markt $
+
+-->
+
+
+<Context docBase="${catalina.home}/server/webapps/host-manager"
+         privileged="true" antiResourceLocking="false" antiJARLocking="false">
+
+</Context>
